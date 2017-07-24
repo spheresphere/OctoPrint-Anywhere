@@ -27,7 +27,7 @@ def stream_up(q, cfg):
             return self.q.get()
 
     stream = UpStream(q)
-    res = requests.post(cfg['api_host'] + "/app/video", data=stream, stream=True, headers={"Authorization": "Bearer " + cfg['token']}).raise_for_status()
+    res = requests.post(cfg['api_host'] + "/strm/video", data=stream, stream=True, headers={"Authorization": "Bearer " + cfg['token']}).raise_for_status()
 
 
 @backoff.on_exception(backoff.expo, Exception)
