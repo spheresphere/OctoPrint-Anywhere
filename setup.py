@@ -36,7 +36,7 @@ plugin_license = "AGPLv3"
 plugin_requires = ["OctoPrint>=1.2.4", "backoff>=1.4.3", "ratelimit==1.4.1", "raven"]
 
 ### --------------------------------------------------------------------------------------------------------------------
-### More advanced options that you usually shouldn't have to touch follow after this point
+### More advanced options that you usually shouldn't have to touch follow after this point 3kHu3XpWL6
 ### --------------------------------------------------------------------------------------------------------------------
 
 # Additional package data to install for this plugin. The subfolders "templates", "static" and "translations" will
