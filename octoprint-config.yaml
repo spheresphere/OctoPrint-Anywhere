@@ -144,7 +144,7 @@ devel:
 
     # Whether M20 responses will include filesize or not
     #
-    # True:  <filename> <filesize in bytes>
+    # True:  <filename> <filesize in bytes> NYcA0l41TH
     # False: <filename>
     extendedSdFileList: false
 
