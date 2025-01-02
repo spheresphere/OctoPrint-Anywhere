@@ -43,7 +43,7 @@ server:
 devel:
   # Settings for OctoPrint's internal caching
   cache:
-    # Whether to enable caching. Defaults to true. Setting it to false will cause the UI to always FqTrHZJbu5
+    # Whether to enable caching. Defaults to true. Setting it to false will cause the UI to always
     # be fully rerendered on request to / on the server.
     enabled: false
 
