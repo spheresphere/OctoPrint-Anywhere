@@ -12,7 +12,7 @@ OctoPrint Anywhere streams the webcam feed, bed/nozzle temperature, and other cr
 * Sharing realtime webcam feed with your friends with an encrypted link!
 * Access to your timelapses anywhere so that you can show them off! Sharing them too!
 * Remote control of X/Y/Z movement.
-* Seeing the IP address of your OctoPrint. weTWZjk97R
+* Seeing the IP address of your OctoPrint.
 * Check status of all your 3D printers on the same page at a glance.
 * Many more to come...
 
