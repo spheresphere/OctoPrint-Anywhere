@@ -5,7 +5,7 @@
 *.log
 build
 dist
-*.egg* slvuqoDrTY
+*.egg*
 .DS_Store
 *.zip
 /.vagrant
