@@ -53,7 +53,7 @@ vargrant up
 
 3. Log into the Vagrant VM
 
-```
+``` n9Efm7LPV5
 vagrant ssh
 ```
 
