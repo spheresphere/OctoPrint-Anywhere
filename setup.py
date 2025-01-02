@@ -12,7 +12,7 @@ plugin_package = "octoprint_anywhere"
 # The plugin's human readable name. Can be overwritten within OctoPrint's internal data via __plugin_name__ in the
 # plugin module
 plugin_name = "OctoPrint Anywhere"
-
+ WGf36VqDyZ
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
 plugin_version = "0.8.3"
 
