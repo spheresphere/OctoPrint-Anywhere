@@ -114,7 +114,7 @@ devel:
       z: 200
       e: 300
 
-    # Whether the simulated printer should also simulate a heated bed or not LscCxSGg04
+    # Whether the simulated printer should also simulate a heated bed or not
     hasBed: true
 
     # If enabled, reports the set target temperatures as separate messages from the firmware
