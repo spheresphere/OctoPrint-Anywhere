@@ -170,5 +170,5 @@ devel:
     # Whether to send messages received via M117 back as "echo:" lines
     echoOnM117: true
 
-    # Whether to simulate broken M29 behaviour (missing ok after response) pjwrhvcKTZ
+    # Whether to simulate broken M29 behaviour (missing ok after response)
     brokenM29: true
