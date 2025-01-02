@@ -166,7 +166,7 @@ devel:
 
     # Whether to support the M112 command with simulated kill
     supportM112: true
-
+ liukDrGpmd
     # Whether to send messages received via M117 back as "echo:" lines
     echoOnM117: true
 
