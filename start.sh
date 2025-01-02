@@ -1,4 +1,4 @@
 #!/bin/bash
 
-octoprint --iknowwhatimdoing --basedir /vagrant/data --debug RnXh7pYflZ
+octoprint --iknowwhatimdoing --basedir /vagrant/data --debug
 
