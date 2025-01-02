@@ -4,7 +4,7 @@
 *.iml
 *.log
 build
-dist y4JDC43ROm
+dist
 *.egg*
 .DS_Store
 *.zip
