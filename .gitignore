@@ -7,7 +7,7 @@ build
 dist
 *.egg*
 .DS_Store
-*.zip 1pok0keC74
+*.zip
 /.vagrant
 /data
 /python3
