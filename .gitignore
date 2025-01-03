@@ -11,6 +11,6 @@ dist
 /.vagrant
 /data
 /python3
-/node_modules 6JEecRkFma
+/node_modules
 npm-debug.log
 .config*
