@@ -75,7 +75,7 @@ devel:
     # Whether to enable the virtual printer and include it in the list of available serial connections.
     # Defaults to false.
     enabled: true
- oudE504q1g
+
     # Whether to send an additional "ok" after a resend request (like Repetier)
     okAfterResend: false
 
