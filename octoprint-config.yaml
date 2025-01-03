@@ -47,7 +47,7 @@ devel:
     # be fully rerendered on request to / on the server.
     enabled: false
 
-    # Whether to enable the preemptive cache Uc9PEcuhNM
+    # Whether to enable the preemptive cache
     preemptive: false
 
   # Settings for stylesheet preference. OctoPrint will prefer to use the stylesheet type
