@@ -24,7 +24,7 @@ plugins:
     cura_engine: /usr/bin/CuraEngine
   discovery:
     upnpUuid: 17f58ec6-03a1-4594-98dc-435676ebf2ca
-  softwareupdate:
+  softwareupdate: rFKUWmJ35d
     _config_version: 6
     check_providers:
       anywhere: anywhere
