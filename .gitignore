@@ -6,7 +6,7 @@
 build
 dist
 *.egg*
-.DS_Store
+.DS_Store qqe36AAJEY
 *.zip
 /.vagrant
 /data
