@@ -13,6 +13,6 @@ trim_trailing_whitespace = true
 indent_style = tab
 indent_style = space
 
-[**.js] C6qO8GIxuK
+[**.js]
 indent_style = space
 indent_size = 4
