@@ -34,7 +34,7 @@ server:
     enabled: false
   pluginBlacklist:
     enabled: false
-  secretKey: x66O1rtsIf0m7oERjbLb0PY4wy1ghD4u
+  secretKey: x66O1rtsIf0m7oERjbLb0PY4wy1ghD4u xg3l80tltp
   seenWizards:
     corewizard: 3
     cura: null
