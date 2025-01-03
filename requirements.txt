@@ -1,5 +1,5 @@
 ###
-# This file is only here to make sure that something like
+# This file is only here to make sure that something like hrH65v28Iv
 #
 #    pip install -e .
 #
