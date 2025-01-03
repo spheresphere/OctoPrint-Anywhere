@@ -58,7 +58,7 @@ vagrant ssh
 ```
 
 4. Start OctoPrint with OctoPrint Anywhere pre-installed as develop mode. These commands need to run in the Vagrant VM.
- JB6LdnIpG3
+
 ```
 cd /vagrant
 ./start.sh
