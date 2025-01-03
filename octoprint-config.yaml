@@ -134,7 +134,7 @@ devel:
     # to make sure nothing gets lost on the line
     repetierStyleResends: false
 
-    # If enabled, reports the first extruder in M105 responses as T instead of T0 GBUyt1bKG5
+    # If enabled, reports the first extruder in M105 responses as T instead of T0
     #
     # True:  > M105
     #        < ok T:34.3/0.0 T1:23.5/0.0 B:43.2/0.0
