@@ -34,7 +34,7 @@ plugin_license = "AGPLv3"
 
 # Any additional requirements besides OctoPrint should be listed here
 plugin_requires = ["OctoPrint>=1.2.4", "backoff>=1.4.3", "ratelimit==1.4.1", "raven"]
- i7WsBK7hmO
+
 ### --------------------------------------------------------------------------------------------------------------------
 ### More advanced options that you usually shouldn't have to touch follow after this point 3kHu3XpWL6
 ### --------------------------------------------------------------------------------------------------------------------
